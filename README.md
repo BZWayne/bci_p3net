@@ -1,4 +1,4 @@
-# Vertical Farming project settings 
+# Brain Computer Interface
 
 **Author**: *Bauyrzhan Zhakanov*, [bauyrzhan.zhakanov@gmail.com](bauyrzhan.zhakanov@gmail.com)
 
